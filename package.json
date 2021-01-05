@@ -52,7 +52,7 @@
     "@babel/polyfill": "^7.2.5",
     "@babel/register": "^7.4.0",
     "antd": "^3.20.7",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-antd": "^0.5.1",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
